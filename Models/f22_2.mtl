@@ -1,0 +1,33 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl glass.001
+Ns 5.882353
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.752941 0.752941 0.752941
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd FA-22_Raptor\Glass_Cockpit.png
+
+newmtl pilot.001
+Ns 5.882353
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.752941 0.752941 0.752941
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd FA-22_Raptor\Pilot_usa.png
+
+newmtl plane.001
+Ns 5.882353
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.752941 0.752941 0.752941
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd FA-22_Raptor\FA-22_Raptor_P01.png
+map_Bump FA-22_Raptor\\FA-22_Raptor_N.png

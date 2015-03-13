@@ -1,0 +1,4398 @@
+{
+  "SaveName": "XCOM",
+  "GameMode": "None",
+  "Date": "3/12/2015 9:20:30 PM",
+  "Table": "Table_RPG",
+  "Sky": "Sky_Museum",
+  "SkyURL": "http://i.imgur.com/UueNESR.jpg",
+  "Note": "",
+  "Rules": "This game can be played for 1-4 people.\n\nTo play X-Com: The Board Game you need to either download the app to your mobile (recommended; just search for xcom in Google Play or App Store) or to use the online app available at https://xcomapp.fantasyflightgames.com/web/Player.html\n\nAfter you get in the App, just select Tutorial.\n\nIf you like the game, buy it! It is definitely more fun with friends around you!",
+  "PlayerTurn": "",
+  "Grid": {
+    "Type": 0,
+    "Lines": false,
+    "Snapping": true,
+    "Offset": false,
+    "xSize": 0.5,
+    "ySize": 0.5
+  },
+  "DrawImage": "iVBORw0KGgoAAAANSUhEUgAAAWAAAADQCAYAAAA53LuNAAAFFElEQVR4Ae3QgQAAAADDoPlTH+SFUGHAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgwYMGDAgAEDBgy8DQx5DAABHyNK3wAAAABJRU5ErkJggg==",
+  "ObjectStates": [
+    {
+      "Name": "Custom_Board",
+      "Transform": {
+        "posX": 4.000052,
+        "posY": 1.00707722,
+        "posZ": 0.000191561761,
+        "rotX": -2.58419332E-05,
+        "rotY": -0.000622077845,
+        "rotZ": -1.00084677E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.78696394,
+        "g": 0.78696394,
+        "b": 0.78696394
+      },
+      "Grid": false,
+      "Locked": true,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/board2.jpg",
+        "WidthScale": 0.9948928
+      }
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": 13.9994574,
+        "posY": 1.14195669,
+        "posZ": -15.0001326,
+        "rotX": 1.77455422E-05,
+        "rotY": 179.94751,
+        "rotZ": 180.000046,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Crisis Cards",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7134926,
+        "g": 0.7134926,
+        "b": 0.7134926
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        205,
+        229,
+        208,
+        225,
+        202,
+        226,
+        212,
+        201,
+        204,
+        210,
+        207,
+        211,
+        219,
+        217,
+        231,
+        200,
+        213,
+        216,
+        214,
+        209,
+        224,
+        221,
+        223,
+        206,
+        203,
+        227,
+        220,
+        230,
+        222,
+        228,
+        218,
+        215
+      ],
+      "CustomDeck": {
+        "2": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/crysis_deck_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/crysis_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -6.21145153,
+        "posY": 1.27824211,
+        "posZ": 14.5857735,
+        "rotX": -1.70754731E-06,
+        "rotY": 54.97065,
+        "rotZ": 270.000153,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "XCOM Dice",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921754,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/dice.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/dice.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 2
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -6.947504,
+        "posY": 1.27824187,
+        "posZ": 13.7212572,
+        "rotX": -8.537737E-06,
+        "rotY": 53.79125,
+        "rotZ": 270.000153,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "XCOM Dice",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921757,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/dice.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/dice.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 2
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -6.94466,
+        "posY": 1.60824275,
+        "posZ": 14.404336,
+        "rotX": -0.000118797463,
+        "rotY": 45.08074,
+        "rotZ": 180.000137,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "XCOM Dice",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921757,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/dice.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/dice.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 2
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -8.234081,
+        "posY": 1.27824128,
+        "posZ": 14.35311,
+        "rotX": -7.000944E-05,
+        "rotY": 55.0057373,
+        "rotZ": 270.000244,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "XCOM Dice",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921757,
+        "b": 0.9999999
+      },
+      "Grid": false,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/dice.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/dice.png",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 2
+      }
+    },
+    {
+      "Name": "Die_8",
+      "Transform": {
+        "posX": -6.79621029,
+        "posY": 1.28693819,
+        "posZ": 16.1284561,
+        "rotX": 33.73655,
+        "rotY": 357.362427,
+        "rotZ": 90.00001,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Alien Dice",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.565026045,
+        "g": 0.08262529,
+        "b": 0.08262529
+      },
+      "Grid": false,
+      "Locked": false,
+      "MaterialIndex": 0
+    },
+    {
+      "Name": "Digital_Clock",
+      "Transform": {
+        "posX": 29.9999943,
+        "posY": 3.609758,
+        "posZ": 1.99997985,
+        "rotX": 4.37164636E-06,
+        "rotY": 89.98509,
+        "rotZ": -2.37861786E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Clock",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0172855165
+      },
+      "Grid": true,
+      "Locked": true,
+      "Clock": {
+        "ClockState": 0,
+        "SecondsPassed": 0,
+        "Paused": false
+      }
+    },
+    {
+      "Name": "Digital_Clock",
+      "Transform": {
+        "posX": -29.9999771,
+        "posY": 3.60976362,
+        "posZ": 2.00004458,
+        "rotX": -1.60420786E-05,
+        "rotY": 269.996521,
+        "rotZ": 4.49360982E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Clock",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0172855165
+      },
+      "Grid": true,
+      "Locked": true,
+      "Clock": {
+        "ClockState": 0,
+        "SecondsPassed": 0,
+        "Paused": false
+      }
+    },
+    {
+      "Name": "Bag",
+      "Transform": {
+        "posX": 18.0060215,
+        "posY": 0.7632042,
+        "posZ": -15.2421532,
+        "rotX": -7.544122E-06,
+        "rotY": 326.1649,
+        "rotZ": -9.919989E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Alien UFOs",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9412074,
+        "g": 0.488889635,
+        "b": 0.0
+      },
+      "Grid": true,
+      "Locked": true,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9907417,
+            "posY": 2.79212022,
+            "posZ": -15.960783,
+            "rotX": 346.868439,
+            "rotY": 0.335827649,
+            "rotZ": 356.8618,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.8296566,
+            "posY": 2.88209128,
+            "posZ": -15.6303215,
+            "rotX": 351.304474,
+            "rotY": 0.3234872,
+            "rotZ": 4.20008373,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9912262,
+            "posY": 2.79344249,
+            "posZ": -15.96072,
+            "rotX": 346.865356,
+            "rotY": 0.343165666,
+            "rotZ": 357.0224,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9912243,
+            "posY": 2.79316759,
+            "posZ": -15.9603767,
+            "rotX": 346.7311,
+            "rotY": 0.354371428,
+            "rotZ": 357.014679,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9912872,
+            "posY": 2.79397082,
+            "posZ": -15.9603052,
+            "rotX": 346.708221,
+            "rotY": 0.360320419,
+            "rotZ": 357.034149,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9913979,
+            "posY": 2.79528379,
+            "posZ": -15.96009,
+            "rotX": 346.6217,
+            "rotY": 0.3407724,
+            "rotZ": 357.07196,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992166638,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9914665,
+            "posY": 2.7960825,
+            "posZ": -15.9600086,
+            "rotX": 346.6037,
+            "rotY": 0.356907547,
+            "rotZ": 357.0931,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.99151,
+            "posY": 2.79639864,
+            "posZ": -15.9598017,
+            "rotX": 346.525,
+            "rotY": 0.357336819,
+            "rotZ": 357.104523,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9915829,
+            "posY": 2.79725528,
+            "posZ": -15.9597387,
+            "rotX": 346.504639,
+            "rotY": 0.353882045,
+            "rotZ": 357.130371,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9916325,
+            "posY": 2.797744,
+            "posZ": -15.9595728,
+            "rotX": 346.441345,
+            "rotY": 0.3167423,
+            "rotZ": 357.153839,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9917145,
+            "posY": 2.79851031,
+            "posZ": -15.9594822,
+            "rotX": 346.411469,
+            "rotY": 0.34314537,
+            "rotZ": 357.174255,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9918327,
+            "posY": 2.79995513,
+            "posZ": -15.95958,
+            "rotX": 346.4577,
+            "rotY": 0.3521801,
+            "rotZ": 357.214081,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9918652,
+            "posY": 2.79998612,
+            "posZ": -15.959281,
+            "rotX": 346.34082,
+            "rotY": 0.3247079,
+            "rotZ": 357.2274,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9919357,
+            "posY": 2.80068779,
+            "posZ": -15.9591656,
+            "rotX": 346.29892,
+            "rotY": 0.2843965,
+            "rotZ": 357.259949,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.992033,
+            "posY": 2.80138922,
+            "posZ": -15.959053,
+            "rotX": 346.2617,
+            "rotY": 0.352544159,
+            "rotZ": 357.275574,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9921036,
+            "posY": 2.80209112,
+            "posZ": -15.9589329,
+            "rotX": 346.217072,
+            "rotY": 0.296806,
+            "rotZ": 357.3113,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9921932,
+            "posY": 2.80279374,
+            "posZ": -15.9588156,
+            "rotX": 346.176025,
+            "rotY": 0.306598157,
+            "rotZ": 357.338379,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.99585,
+            "posY": 2.80249619,
+            "posZ": -15.9591513,
+            "rotX": 347.018433,
+            "rotY": 15.5762434,
+            "rotZ": 354.979523,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9888687,
+            "posY": 2.805818,
+            "posZ": -15.9581728,
+            "rotX": 345.637848,
+            "rotY": 345.0405,
+            "rotZ": 0.0251232721,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9924812,
+            "posY": 2.80501628,
+            "posZ": -15.958497,
+            "rotX": 346.065369,
+            "rotY": 0.322511971,
+            "rotZ": 357.429382,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9925842,
+            "posY": 2.80576515,
+            "posZ": -15.9583855,
+            "rotX": 346.026978,
+            "rotY": 0.316985965,
+            "rotZ": 357.464539,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.992691,
+            "posY": 2.80651975,
+            "posZ": -15.95828,
+            "rotX": 345.989227,
+            "rotY": 0.313055873,
+            "rotZ": 357.50058,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921664,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9927959,
+            "posY": 2.80728245,
+            "posZ": -15.958168,
+            "rotX": 345.950653,
+            "rotY": 0.280261368,
+            "rotZ": 357.542877,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921661,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 17.9965611,
+            "posY": 2.72688746,
+            "posZ": -15.9853573,
+            "rotX": 348.5786,
+            "rotY": 0.153266147,
+            "rotZ": 357.822968,
+            "scaleX": 0.07,
+            "scaleY": 0.07,
+            "scaleZ": 0.07
+          },
+          "Nickname": "Alien UFO",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921671,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/saucer.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 1
+          }
+        }
+      ]
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": 26.0064259,
+        "posY": 1.02348483,
+        "posZ": 7.98553467,
+        "rotX": 9.265022E-07,
+        "rotY": 0.0405210331,
+        "rotZ": -2.4713403E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133678,
+        "g": 0.7133678,
+        "b": 0.7133678
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 25.9992027,
+        "posY": 1.023485,
+        "posZ": 4.00003052,
+        "rotX": 1.23671748E-06,
+        "rotY": 359.9821,
+        "rotZ": -3.197117E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133756,
+        "g": 0.7133756,
+        "b": 0.7133756
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        462,
+        461,
+        460,
+        459,
+        458,
+        457,
+        456
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 25.9992085,
+        "posY": 1.023485,
+        "posZ": -1.90832452E-05,
+        "rotX": 2.802605E-06,
+        "rotY": 359.991272,
+        "rotZ": -3.184745E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133756,
+        "g": 0.7133756,
+        "b": 0.7133756
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        455,
+        454,
+        453,
+        452,
+        451,
+        450,
+        449
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 17.9999447,
+        "posY": 1.018824,
+        "posZ": 11.9943285,
+        "rotX": 1.94350221E-07,
+        "rotY": 359.933624,
+        "rotZ": 2.79505041E-08,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133756,
+        "g": 0.7133756,
+        "b": 0.7133756
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        448,
+        447,
+        446,
+        445,
+        444
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 17.9996471,
+        "posY": 1.02683246,
+        "posZ": 8.000212,
+        "rotX": -1.02752074E-06,
+        "rotY": 0.296806276,
+        "rotZ": -1.29294076E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133756,
+        "g": 0.7133756,
+        "b": 0.7133756
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        443,
+        442
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 22.000412,
+        "posY": 1.023485,
+        "posZ": 11.9972115,
+        "rotX": -1.51619645E-06,
+        "rotY": 0.1383795,
+        "rotZ": 1.7346616E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133756,
+        "g": 0.7133756,
+        "b": 0.7133756
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        441,
+        440,
+        439,
+        438,
+        437,
+        436,
+        435
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 21.9617233,
+        "posY": 1.018824,
+        "posZ": 8.003016,
+        "rotX": -3.6506035E-06,
+        "rotY": 0.284383982,
+        "rotZ": 1.802961E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133756,
+        "g": 0.7133756,
+        "b": 0.7133756
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        434,
+        433,
+        432,
+        431,
+        430
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 22.0003185,
+        "posY": 1.02683234,
+        "posZ": 4.00063,
+        "rotX": -4.748097E-06,
+        "rotY": 0.198757678,
+        "rotZ": 1.08262493E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133756,
+        "g": 0.7133756,
+        "b": 0.7133756
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        429,
+        428
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 25.9977455,
+        "posY": 1.023485,
+        "posZ": 15.9992428,
+        "rotX": 9.945068E-06,
+        "rotY": 0.0479037054,
+        "rotZ": -3.127345E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713383436,
+        "g": 0.713383436,
+        "b": 0.713383436
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        422,
+        424,
+        425,
+        426,
+        427,
+        423,
+        421
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 26.0012321,
+        "posY": 1.023485,
+        "posZ": 11.9919825,
+        "rotX": 6.686334E-06,
+        "rotY": 359.886871,
+        "rotZ": -2.11107526E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133756,
+        "g": 0.7133756,
+        "b": 0.7133756
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        420,
+        419,
+        418,
+        417,
+        416,
+        414,
+        415
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 18.0000572,
+        "posY": 1.023485,
+        "posZ": 3.99368477,
+        "rotX": -5.178281E-08,
+        "rotY": 359.952545,
+        "rotZ": -1.09583716E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133756,
+        "g": 0.7133756,
+        "b": 0.7133756
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        413,
+        412,
+        411,
+        410,
+        409,
+        408,
+        407
+      ],
+      "CustomDeck": {
+        "4": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_deck_full_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/alien_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": -10.4997463,
+        "posY": 1.12063885,
+        "posZ": -9.999574,
+        "rotX": 1.3526449E-05,
+        "rotY": 269.974548,
+        "rotZ": 180.000015,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Asset Cards",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713356137,
+        "g": 0.713356137,
+        "b": 0.713356137
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546
+      ],
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -5.215207,
+        "posY": 1.01995623,
+        "posZ": -16.8072281,
+        "rotX": 8.670765E-07,
+        "rotY": 180.069031,
+        "rotZ": -2.262848E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 502,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -1.99943542,
+        "posY": 1.01995623,
+        "posZ": -14.999712,
+        "rotX": 7.466157E-07,
+        "rotY": 180.03241,
+        "rotZ": -1.88867318E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 505,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -20.9996986,
+        "posY": 1.02082109,
+        "posZ": -10.0000982,
+        "rotX": -2.652544E-06,
+        "rotY": 180.0024,
+        "rotZ": 9.556981E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Asset Cards",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713363945,
+        "g": 0.713363945,
+        "b": 0.713363945
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        504,
+        501,
+        503,
+        500,
+        507,
+        506
+      ],
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 18.5002537,
+        "posY": 1.01995623,
+        "posZ": -8.999803,
+        "rotX": -5.458042E-06,
+        "rotY": 90.02659,
+        "rotZ": 4.2896163E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 508,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 22.5001411,
+        "posY": 1.01995623,
+        "posZ": -11.9999065,
+        "rotX": 1.45813078E-06,
+        "rotY": 90.0328751,
+        "rotZ": 9.433153E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 509,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 18.5001049,
+        "posY": 1.01995623,
+        "posZ": -5.999748,
+        "rotX": -4.66835036E-06,
+        "rotY": 90.01559,
+        "rotZ": -4.693647E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 510,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -10.4998493,
+        "posY": 1.01995623,
+        "posZ": 8.999688,
+        "rotX": 5.21411175E-06,
+        "rotY": 270.01712,
+        "rotZ": -1.117038E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 511,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -14.0001316,
+        "posY": 1.01995611,
+        "posZ": 8.999842,
+        "rotX": 2.10621738E-06,
+        "rotY": 270.037933,
+        "rotZ": 2.623223E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 512,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -10.4998856,
+        "posY": 1.01995623,
+        "posZ": 6.49975729,
+        "rotX": 3.99206556E-06,
+        "rotY": 270.009033,
+        "rotZ": -7.503473E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 513,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 12.4994564,
+        "posY": 1.01995623,
+        "posZ": 14.499855,
+        "rotX": 5.941589E-06,
+        "rotY": 0.01741939,
+        "rotZ": -7.666863E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": false,
+      "CardID": 514,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 18.50008,
+        "posY": 1.01995623,
+        "posZ": -11.9998007,
+        "rotX": 4.66617257E-06,
+        "rotY": 90.04767,
+        "rotZ": 3.88782473E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 515,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -10.5001631,
+        "posY": 1.01995623,
+        "posZ": 11.4998713,
+        "rotX": -1.97581649E-05,
+        "rotY": 270.013,
+        "rotZ": 4.03155573E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 516,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -7.499411,
+        "posY": 1.01995647,
+        "posZ": -14.9996586,
+        "rotX": 3.99532764E-05,
+        "rotY": 180.036636,
+        "rotZ": -5.33182028E-05,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 517,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 14.9995756,
+        "posY": 1.01995623,
+        "posZ": 14.4999056,
+        "rotX": 8.898695E-06,
+        "rotY": 0.0181928165,
+        "rotZ": -6.18349577E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 518,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_asset_tech_role_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -3.99965334,
+        "posY": 1.01995623,
+        "posZ": 13.9998331,
+        "rotX": 3.24373855E-06,
+        "rotY": 359.962158,
+        "rotZ": -3.0822477E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Reserve - Support",
+      "Description": "Place 2 support soldiers here at the start of the game.",
+      "ColorDiffuse": {
+        "r": 0.713356137,
+        "g": 0.713356137,
+        "b": 0.713356137
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 603,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_reserve_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -3.993212,
+        "posY": 1.01995623,
+        "posZ": 16.4988842,
+        "rotX": 7.78211E-06,
+        "rotY": 0.07877257,
+        "rotZ": 2.06827892E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Reserve - Sniper",
+      "Description": "Place 2 sniper soldiers here at the start of the game.",
+      "ColorDiffuse": {
+        "r": 0.713356137,
+        "g": 0.713356137,
+        "b": 0.713356137
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 602,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_reserve_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -0.4956512,
+        "posY": 1.01995623,
+        "posZ": 16.4993286,
+        "rotX": -4.19564549E-06,
+        "rotY": 0.067821376,
+        "rotZ": 6.373189E-08,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Reserve - Heavy",
+      "Description": "Place 2 heavy soldiers here at the start of the game.",
+      "ColorDiffuse": {
+        "r": 0.713356137,
+        "g": 0.713356137,
+        "b": 0.713356137
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 601,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_reserve_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -0.5886489,
+        "posY": 1.016648,
+        "posZ": 14.0273962,
+        "rotX": 0.0707169548,
+        "rotY": 359.473633,
+        "rotZ": 359.933624,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Reserve - Assault",
+      "Description": "Place 2 assault soldiers here at the start of the game.",
+      "ColorDiffuse": {
+        "r": 0.713356137,
+        "g": 0.713356137,
+        "b": 0.713356137
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 600,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "6": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_reserve_back_vvlq2.jpg"
+        }
+      }
+    },
+    {
+      "Name": "DeckCustom",
+      "Transform": {
+        "posX": 19.5000553,
+        "posY": 1.03536761,
+        "posZ": 15.999959,
+        "rotX": 6.265014E-06,
+        "rotY": 359.984619,
+        "rotZ": 180.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Mission Cards",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.7133522,
+        "g": 0.7133522,
+        "b": 0.7133522
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        708,
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715,
+        716,
+        717,
+        718,
+        719
+      ],
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_mission_invasion_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_mission_invasion_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -16.9961529,
+        "posY": 1.018824,
+        "posZ": -9.991849,
+        "rotX": -1.93029086E-06,
+        "rotY": 179.880814,
+        "rotZ": -1.38795968E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Invasion Cards",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.71336,
+        "g": 0.71336,
+        "b": 0.71336
+      },
+      "Grid": true,
+      "Locked": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        700,
+        701,
+        702,
+        703,
+        704
+      ],
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_mission_invasion_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_mission_invasion_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 9.500026,
+        "posY": 1.01995623,
+        "posZ": -14.5000877,
+        "rotX": -5.657296E-07,
+        "rotY": 180.0197,
+        "rotZ": -4.387163E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Reserve - Interceptors",
+      "Description": "Place 6 interceptors here at the start of the game.",
+      "ColorDiffuse": {
+        "r": 0.713356137,
+        "g": 0.713356137,
+        "b": 0.713356137
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 705,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_mission_invasion_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_mission_invasion_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": 18.5000324,
+        "posY": 1.01995623,
+        "posZ": -1.49997818,
+        "rotX": 2.633297E-06,
+        "rotY": 89.3292542,
+        "rotZ": 2.47704861E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Reserve - Satellites",
+      "Description": "Place 8 satellites here at the start of the game.",
+      "ColorDiffuse": {
+        "r": 0.713356137,
+        "g": 0.713356137,
+        "b": 0.713356137
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 706,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_mission_invasion_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_mission_invasion_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Card",
+      "Transform": {
+        "posX": -10.49871,
+        "posY": 1.01995623,
+        "posZ": -5.49681,
+        "rotX": 1.85515069E-06,
+        "rotY": 269.940826,
+        "rotZ": -2.04242042E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Reserve - Scientists",
+      "Description": "Place 8 scientists here at the start of the game.",
+      "ColorDiffuse": {
+        "r": 0.713356137,
+        "g": 0.713356137,
+        "b": 0.713356137
+      },
+      "Grid": true,
+      "Locked": true,
+      "CardID": 707,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "7": {
+          "FaceURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_mission_invasion_reserve_vvlq2.jpg",
+          "BackURL": "http://download.diegolima.org/Tabletop/xcom-tbg/deck_mission_invasion_reserve_back_vvlq2.jpg{Unique}"
+        }
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 7.50021362,
+        "posY": 2.55379057,
+        "posZ": 2.50028515,
+        "rotX": -3.223006E-05,
+        "rotY": 0.03575657,
+        "rotZ": 3.21233784E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Assault",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_assault.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 7.00021267,
+        "posY": 2.55379057,
+        "posZ": 3.50028443,
+        "rotX": -3.148367E-05,
+        "rotY": 0.0353659578,
+        "rotZ": 2.47414255E-06,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Sniper",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_sniper.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 8.500213,
+        "posY": 2.55379057,
+        "posZ": 2.50028324,
+        "rotX": -2.48673132E-05,
+        "rotY": 0.0402162746,
+        "rotZ": 3.27893235E-06,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Heavy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_heavy.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 9.500198,
+        "posY": 2.55379,
+        "posZ": 3.49997282,
+        "rotX": -2.74274062E-05,
+        "rotY": 0.007681158,
+        "rotZ": -1.09016025E-06,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Support",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_support.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -3.50046444,
+        "posY": 1.81206441,
+        "posZ": 14.4995747,
+        "rotX": 3.30830926E-06,
+        "rotY": 359.950958,
+        "rotZ": -1.48107063E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Support",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_support.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -3.00212,
+        "posY": 1.81206465,
+        "posZ": 13.5109339,
+        "rotX": 3.73349644E-06,
+        "rotY": 1.05861628,
+        "rotZ": 2.09589416E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Support",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_support.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -0.00046409815,
+        "posY": 1.81206441,
+        "posZ": 16.9995747,
+        "rotX": -4.58908835E-06,
+        "rotY": 359.9508,
+        "rotZ": -1.26585135E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Heavy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_heavy.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 0.497994721,
+        "posY": 1.81206441,
+        "posZ": 16.0109043,
+        "rotX": -4.16639568E-06,
+        "rotY": 1.06967914,
+        "rotZ": 4.355388E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Heavy",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_heavy.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -3.00170565,
+        "posY": 1.81206441,
+        "posZ": 17.0109558,
+        "rotX": 7.46859132E-06,
+        "rotY": 1.0808928,
+        "rotZ": 2.397116E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Sniper",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_sniper.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": -3.00183153,
+        "posY": 1.81206465,
+        "posZ": 16.01091,
+        "rotX": 8.210354E-06,
+        "rotY": 1.075634,
+        "rotZ": 8.074791E-07,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Sniper",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_sniper.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 0.5260455,
+        "posY": 1.80806541,
+        "posZ": 13.5562468,
+        "rotX": 0.06999267,
+        "rotY": 358.6504,
+        "rotZ": 359.9324,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Assault",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_assault.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Figurine_Custom",
+      "Transform": {
+        "posX": 0.480946958,
+        "posY": 1.80683494,
+        "posZ": 14.5883055,
+        "rotX": 0.06443168,
+        "rotY": 354.122131,
+        "rotZ": 359.927063,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Soldier - Assault",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.99999994,
+        "g": 0.99999994,
+        "b": 0.99999994
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomImage": {
+        "ImageURL": "http://download.diegolima.org/Tabletop/xcom-tbg/class_assault.jpg",
+        "WidthScale": 0.0
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 1.99992919,
+        "posY": 1.87045109,
+        "posZ": -0.4999512,
+        "rotX": -2.5954555E-06,
+        "rotY": 105.001411,
+        "rotZ": -1.31426477E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "XCOM Base",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921671,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-xcombase.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 13.9994173,
+        "posY": 1.870449,
+        "posZ": -5.999554,
+        "rotX": -2.448644E-06,
+        "rotY": 105.013283,
+        "rotZ": -1.815024E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Africa Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921679,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-africa.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 11.9999285,
+        "posY": 1.87044907,
+        "posZ": -7.499974,
+        "rotX": 1.09663179E-05,
+        "rotY": 105.000015,
+        "rotZ": -1.74384531E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Asia Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921679,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-asia.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 13.9999266,
+        "posY": 1.8704493,
+        "posZ": -7.499953,
+        "rotX": 4.02119E-07,
+        "rotY": 104.993279,
+        "rotZ": -2.17558882E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Europe Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921679,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-europe.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 11.9999332,
+        "posY": 1.8704499,
+        "posZ": -5.99996471,
+        "rotX": -6.42994837E-06,
+        "rotY": 104.987656,
+        "rotZ": -1.849179E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "North America Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992167354,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-namerica.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 11.9999285,
+        "posY": 1.87045026,
+        "posZ": -4.49996567,
+        "rotX": 2.02604188E-05,
+        "rotY": 104.984436,
+        "rotZ": -2.22610815E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "Oceania Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992167354,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-oceania.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 13.9999247,
+        "posY": 1.8704499,
+        "posZ": -4.499952,
+        "rotX": -6.4830715E-07,
+        "rotY": 104.996284,
+        "rotZ": -1.67148137E-05,
+        "scaleX": 0.625,
+        "scaleY": 0.625,
+        "scaleZ": 0.625
+      },
+      "Nickname": "South America Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992167354,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-samerica.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": -6.499983,
+        "posY": 1.857986,
+        "posZ": -10.5056562,
+        "rotX": -1.62444576E-05,
+        "rotY": 0.946832,
+        "rotZ": -9.953925E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Threat Level Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921646,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-square.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-threat.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 7.49964857,
+        "posY": 1.18646836,
+        "posZ": -15.0124,
+        "rotX": 270.0,
+        "rotY": 179.296722,
+        "rotZ": 0.0,
+        "scaleX": 0.06,
+        "scaleY": 0.06,
+        "scaleZ": 0.06
+      },
+      "Nickname": "XCOM Interceptor",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921764,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.png",
+        "NormalURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22_n.png",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 1
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 8.500443,
+        "posY": 1.1864686,
+        "posZ": -13.999712,
+        "rotX": 270.0,
+        "rotY": 179.3925,
+        "rotZ": 0.0,
+        "scaleX": 0.06,
+        "scaleY": 0.06,
+        "scaleZ": 0.06
+      },
+      "Nickname": "XCOM Interceptor",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921764,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.png",
+        "NormalURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22_n.png",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 1
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 9.500443,
+        "posY": 1.18646872,
+        "posZ": -14.999712,
+        "rotX": 270.0,
+        "rotY": 179.3925,
+        "rotZ": 0.0,
+        "scaleX": 0.06,
+        "scaleY": 0.06,
+        "scaleZ": 0.06
+      },
+      "Nickname": "XCOM Interceptor",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921764,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.png",
+        "NormalURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22_n.png",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 1
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 10.5004416,
+        "posY": 1.18646872,
+        "posZ": -13.999712,
+        "rotX": 270.0,
+        "rotY": 179.392548,
+        "rotZ": 0.0,
+        "scaleX": 0.06,
+        "scaleY": 0.06,
+        "scaleZ": 0.06
+      },
+      "Nickname": "XCOM Interceptor",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921764,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.png",
+        "NormalURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22_n.png",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 1
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 11.4996557,
+        "posY": 1.18646884,
+        "posZ": -15.0123911,
+        "rotX": 270.0,
+        "rotY": 179.2961,
+        "rotZ": 0.0,
+        "scaleX": 0.06,
+        "scaleY": 0.06,
+        "scaleZ": 0.06
+      },
+      "Nickname": "XCOM Interceptor",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921764,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.png",
+        "NormalURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22_n.png",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 1
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 9.500855,
+        "posY": 1.18646848,
+        "posZ": -13.4997425,
+        "rotX": 270.0,
+        "rotY": 179.479385,
+        "rotZ": 0.0,
+        "scaleX": 0.06,
+        "scaleY": 0.06,
+        "scaleZ": 0.06
+      },
+      "Nickname": "XCOM Interceptor",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921764,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.png",
+        "NormalURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22_n.png",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 1
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 7.498837,
+        "posY": 1.92819226,
+        "posZ": -4.50032663,
+        "rotX": 270.0,
+        "rotY": 179.294067,
+        "rotZ": 0.0,
+        "scaleX": 0.06,
+        "scaleY": 0.06,
+        "scaleZ": 0.06
+      },
+      "Nickname": "XCOM Interceptor",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921767,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.png",
+        "NormalURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22_n.png",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 1
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 8.99883652,
+        "posY": 1.92819214,
+        "posZ": -4.50032663,
+        "rotX": 270.0,
+        "rotY": 179.293991,
+        "rotZ": 0.0,
+        "scaleX": 0.06,
+        "scaleY": 0.06,
+        "scaleZ": 0.06
+      },
+      "Nickname": "XCOM Interceptor",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921767,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22.png",
+        "NormalURL": "http://download.diegolima.org/Tabletop/xcom-tbg/f22_n.png",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 1
+      }
+    },
+    {
+      "Name": "Custom_Model",
+      "Transform": {
+        "posX": 15.0033922,
+        "posY": 1.8579917,
+        "posZ": 6.01731348,
+        "rotX": 2.14294341E-05,
+        "rotY": 180.8472,
+        "rotZ": 1.5097587E-06,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Base Damage Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216485,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-square.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-basedamage.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model_Stack",
+      "Transform": {
+        "posX": -10.9993944,
+        "posY": 1.134844,
+        "posZ": -4.000692,
+        "rotX": -1.58891146E-06,
+        "rotY": 90.4310455,
+        "rotZ": 1.83953773E-07,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "Scientist",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992165864,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 4,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-square.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-science.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model_Stack",
+      "Transform": {
+        "posX": -10.4993877,
+        "posY": 1.13484383,
+        "posZ": -5.500274,
+        "rotX": -1.96707765E-06,
+        "rotY": 90.4689,
+        "rotZ": 5.10868063E-07,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "Scientist",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.992165864,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 4,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-square.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-science.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model_Stack",
+      "Transform": {
+        "posX": 18.9996071,
+        "posY": 1.134844,
+        "posZ": -3.00219274,
+        "rotX": -2.46519426E-06,
+        "rotY": 270.4896,
+        "rotZ": 2.433567E-07,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "Satellite",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921656,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 4,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-square.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-satellite.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model_Stack",
+      "Transform": {
+        "posX": 17.997963,
+        "posY": 1.134844,
+        "posZ": -0.9996397,
+        "rotX": -2.20238849E-06,
+        "rotY": 270.400177,
+        "rotZ": -4.95915231E-07,
+        "scaleX": 1.75,
+        "scaleY": 1.75,
+        "scaleZ": 1.75
+      },
+      "Nickname": "Satellite",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921656,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 4,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-square.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-satellite.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model_Stack",
+      "Transform": {
+        "posX": -16.50514,
+        "posY": 0.9792078,
+        "posZ": -14.50292,
+        "rotX": -3.56123167E-07,
+        "rotY": 0.165085346,
+        "rotZ": -4.795792E-07,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "XCOM Success Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216187,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 6,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-square.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-xcommarker.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model_Stack",
+      "Transform": {
+        "posX": -17.4997616,
+        "posY": 0.9792079,
+        "posZ": -14.500411,
+        "rotX": -6.937595E-05,
+        "rotY": 359.85672,
+        "rotZ": -2.977599E-06,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "XCOM Success Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.99216187,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 6,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-square.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-xcommarker.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Custom_Model_Stack",
+      "Transform": {
+        "posX": -15.4965639,
+        "posY": 0.979208,
+        "posZ": -14.5004072,
+        "rotX": -5.596067E-06,
+        "rotY": 359.849579,
+        "rotZ": 0.00012503675,
+        "scaleX": 1.25,
+        "scaleY": 1.25,
+        "scaleZ": 1.25
+      },
+      "Nickname": "XCOM Success Token",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9999999,
+        "g": 0.9921616,
+        "b": 0.9999999
+      },
+      "Grid": true,
+      "Locked": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Number": 6,
+      "CustomMesh": {
+        "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-square.obj",
+        "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-xcommarker.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 5
+      }
+    },
+    {
+      "Name": "Bag",
+      "Transform": {
+        "posX": -10.5073471,
+        "posY": 0.7632091,
+        "posZ": -14.0056963,
+        "rotX": -6.268415E-07,
+        "rotY": 359.841583,
+        "rotZ": -3.44311843E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "Credits",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.9411783,
+        "g": 0.4887008,
+        "b": 0.0
+      },
+      "Grid": true,
+      "Locked": true,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.4999409,
+            "posY": 2.73654866,
+            "posZ": -12.9715843,
+            "rotX": 12.5821228,
+            "rotY": -0.00386949116,
+            "rotZ": -0.000103336344,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921616,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0017357,
+            "posY": 2.9220798,
+            "posZ": -13.4980478,
+            "rotX": 6.614082,
+            "rotY": 0.353270143,
+            "rotZ": 6.61253452,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.9921616,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -9.992932,
+            "posY": 2.718818,
+            "posZ": -12.9850321,
+            "rotX": 6.90250635,
+            "rotY": 0.9428011,
+            "rotZ": 353.072968,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.99216187,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.4999695,
+            "posY": 2.940122,
+            "posZ": -13.4966526,
+            "rotX": 11.2119884,
+            "rotY": 359.9864,
+            "rotZ": 359.905884,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.99216187,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0025826,
+            "posY": 2.95411372,
+            "posZ": -13.9999237,
+            "rotX": 0.295596063,
+            "rotY": 0.0221639536,
+            "rotZ": 10.0960541,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.99216187,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0027,
+            "posY": 2.94916916,
+            "posZ": -13.99992,
+            "rotX": 0.307941556,
+            "rotY": 0.0244083665,
+            "rotZ": 10.5217218,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.99216187,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.4999084,
+            "posY": 3.0403738,
+            "posZ": -13.9996872,
+            "rotX": 1.213767,
+            "rotY": 359.992462,
+            "rotZ": 359.6575,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.99216187,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.49992,
+            "posY": 3.04378438,
+            "posZ": -13.9997253,
+            "rotX": 1.079998,
+            "rotY": 359.993225,
+            "rotZ": 359.695282,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.99216187,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0023737,
+            "posY": 2.96302319,
+            "posZ": -13.99993,
+            "rotX": 0.2734171,
+            "rotY": 0.0183607545,
+            "rotZ": 9.329021,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.99216187,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.00138,
+            "posY": 2.948865,
+            "posZ": -13.4984913,
+            "rotX": 5.43770933,
+            "rotY": 0.233614624,
+            "rotZ": 5.41711235,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.99216187,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.4999,
+            "posY": 3.03731465,
+            "posZ": -13.9996548,
+            "rotX": 1.33441257,
+            "rotY": 359.9477,
+            "rotZ": 359.622528,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.1242046,
+            "posY": 2.89221787,
+            "posZ": -13.3041344,
+            "rotX": 10.4169455,
+            "rotY": 359.88446,
+            "rotZ": 352.477631,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0017757,
+            "posY": 2.921832,
+            "posZ": -13.4979334,
+            "rotX": 6.67049074,
+            "rotY": 0.312581658,
+            "rotZ": 6.61523962,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.99216187,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0017366,
+            "posY": 2.92454314,
+            "posZ": -13.4979868,
+            "rotX": 6.549527,
+            "rotY": 0.3074062,
+            "rotZ": 6.49457073,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0017653,
+            "posY": 2.92244148,
+            "posZ": -13.4979477,
+            "rotX": 6.6419425,
+            "rotY": 0.315534532,
+            "rotZ": 6.58720875,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.4998293,
+            "posY": 3.03749323,
+            "posZ": -13.9995766,
+            "rotX": 1.63554692,
+            "rotY": 359.950439,
+            "rotZ": 359.350067,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0030107,
+            "posY": 2.936797,
+            "posZ": -13.9998894,
+            "rotX": 0.429282278,
+            "rotY": 0.023198802,
+            "rotZ": 11.6440678,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.001524,
+            "posY": 2.93964052,
+            "posZ": -13.4982738,
+            "rotX": 5.880161,
+            "rotY": 0.234597743,
+            "rotZ": 5.82251072,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.00177,
+            "posY": 2.92204738,
+            "posZ": -13.497942,
+            "rotX": 6.657569,
+            "rotY": 0.34202677,
+            "rotZ": 6.606605,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.002984,
+            "posY": 2.9378984,
+            "posZ": -13.9998894,
+            "rotX": 0.4304064,
+            "rotY": 0.0007388319,
+            "rotZ": 11.5487432,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0030117,
+            "posY": 2.93679619,
+            "posZ": -13.9998884,
+            "rotX": 0.409745872,
+            "rotY": 0.04335283,
+            "rotZ": 11.6444616,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.4998274,
+            "posY": 3.03735757,
+            "posZ": -13.9995747,
+            "rotX": 1.642711,
+            "rotY": 359.9461,
+            "rotZ": 359.34668,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0017757,
+            "posY": 2.92183566,
+            "posZ": -13.4979315,
+            "rotX": 6.67172432,
+            "rotY": 0.3014783,
+            "rotZ": 6.614872,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.499897,
+            "posY": 3.037349,
+            "posZ": -13.9994259,
+            "rotX": 1.56594431,
+            "rotY": 0.006788702,
+            "rotZ": 359.301849,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.499959,
+            "posY": 2.95027781,
+            "posZ": -14.50276,
+            "rotX": 349.304932,
+            "rotY": 0.009645546,
+            "rotZ": 359.839325,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.4998379,
+            "posY": 3.039236,
+            "posZ": -13.9995995,
+            "rotX": 1.55209625,
+            "rotY": 359.951721,
+            "rotZ": 359.38208,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.0028772,
+            "posY": 2.942384,
+            "posZ": -13.9998932,
+            "rotX": 0.416647315,
+            "rotY": -0.00411472749,
+            "rotZ": 11.1609945,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -11.002965,
+            "posY": 2.938713,
+            "posZ": -13.99989,
+            "rotX": 0.427484,
+            "rotY": 0.002609585,
+            "rotZ": 11.4785719,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.992161334,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -10.4993877,
+            "posY": 3.02023554,
+            "posZ": -13.9984608,
+            "rotX": 2.962139,
+            "rotY": 359.986938,
+            "rotZ": 358.822968,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "scaleZ": 0.5
+          },
+          "Nickname": "Credits",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.9999999,
+            "g": 0.99216187,
+            "b": 0.9999999
+          },
+          "Grid": true,
+          "Locked": false,
+          "CustomMesh": {
+            "MeshURL": "http://download.diegolima.org/Tabletop/xcom-tbg/coin.obj",
+            "DiffuseURL": "http://download.diegolima.org/Tabletop/xcom-tbg/token-credits.jpg",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 5
+          }
+        }
+      ]
+    }
+  ]
+}
