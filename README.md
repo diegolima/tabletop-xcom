@@ -1,2 +1,2 @@
 # tabletop-xcom
-XCOM: The Board Defense mod for Tabletop Simulator
+XCOM: The Board Game mod for Tabletop Simulator
